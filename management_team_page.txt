@@ -1,0 +1,11 @@
+<html>
+
+<body>
+
+<h1>Eloheh</h1>
+<b><font color = "blue"><font size = "5"><font face = "Garamond">Our Core Values</font></font></font></b>
+
+
+
+</body>
+</html>
